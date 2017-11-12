@@ -2,7 +2,9 @@
 
 apt-get install nodejs-legacy
 
-## install express and elasticsearch express modules
+## install express
 
 npm install express –-save
+
+## install elastic search express
 npm install elasticsearch express
