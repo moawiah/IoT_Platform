@@ -1,0 +1,3 @@
+/root/examples/kafka-flink-101/src/main/java/com/grallandco/demos/KafkaFlinkElastic.java
+/root/examples/kafka-flink-101/src/main/java/com/grallandco/demos/ReadFromKafka.java
+/root/examples/kafka-flink-101/src/main/java/com/grallandco/demos/WriteToKafka.java
