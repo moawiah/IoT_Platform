@@ -11,6 +11,6 @@ npm install express –-save
 npm install elasticsearch express
 
 ## run the server
-node server.js
+npm run start
 
 ## connect to the server on http://localhost:3000/indices for example
