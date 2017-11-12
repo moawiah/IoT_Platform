@@ -10,6 +10,9 @@ npm install express –-save
 
 npm install elasticsearch express
 
+## open the port to be accessed from internet
+iptables -I INPUT -p tcp -m tcp --dport 9092 -j ACCEPT
+
 ## run the server
 npm run start
 
