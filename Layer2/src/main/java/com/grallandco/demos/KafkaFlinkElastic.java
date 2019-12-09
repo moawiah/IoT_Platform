@@ -15,11 +15,6 @@ import org.elasticsearch.client.Requests;
 import java.net.InetSocketAddress;
 import java.util.*;
 
-
-/**
- * @author Keira Zhou
- * @date 05/10/2016
- */
 public class KafkaFlinkElastic {
 
     public static void main(String[] args) throws Exception {
